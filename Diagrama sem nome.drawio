@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Página-1" id="8E2fJ1K8sBP7UEY2rC10">
-    <mxGraphModel dx="3923" dy="4804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6120" dy="6534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,11 +128,6 @@
         </mxCell>
         <mxCell id="Kh2L771goqjkn-d217NF-86" value="Sim" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="Kh2L771goqjkn-d217NF-85">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Kh2L771goqjkn-d217NF-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kh2L771goqjkn-d217NF-87">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-850" y="-1180" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Kh2L771goqjkn-d217NF-87" value="Encontro com Lily (Mais reflexivo e incerto)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=16;align=center;spacing=9;rounded=1;absoluteArcSize=1;arcSize=12;strokeWidth=NaN;lucidId=5-M~qlBs5fni;" vertex="1" parent="1">
           <mxGeometry x="735" y="-1665" width="180" height="105" as="geometry" />
